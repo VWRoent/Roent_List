@@ -108,17 +108,6 @@ obs_viewer/
   style.css             # Viewerスタイル（自動作成）
 ```
 
----
-
-## ビルド（EXE化）
-
-すでに exe を作成済みとのことですが、再ビルド例です。
-
-```bash
-pyinstaller --onefile --noconsole roentlist.py
-```
-
----
 
 ## 注意事項（配信・権利）
 - 歌詞や音源、動画の取り扱いは **各プラットフォーム／音源提供元／著作権管理団体の規約** に従ってください。
